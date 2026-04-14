@@ -11,5 +11,3 @@ Data Analyst / Data Scientist passionate about turning data into insights.<br><b
 ![](https://github-readme-stats.shion.dev/api?username=hxxisq&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=hxxisq&theme=blue_navy&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=hxxisq&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
