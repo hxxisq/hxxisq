@@ -1,7 +1,9 @@
 # Benjamin Shado
 **Data Analyst · Data Scientist**
 
-I turn messy data into clear decisions. Experienced in fraud detection, churn prediction, and financial data analysis — with a focus on models that actually ship.
+Data Analyst / Data Scientist focused on financial data, risk modeling, and predictive analytics. Experienced in Python, SQL, and machine
+learning, with a proven track record of building backtesting engines, detecting imbalanced fraud, and optimizing data pipelines. Open to
+remote worldwide and local opportunities.
 
 ---
 
