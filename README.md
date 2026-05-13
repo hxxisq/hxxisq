@@ -25,15 +25,15 @@ Data analyst and scientist with a background in computer science, focused on bui
 
 ## Featured Projects
 
-### [Algorithmic Trading Research & Optimization Engine](#)
+### [Algorithmic Trading Research & Optimization Engine](https://github.com/hxxisq/backtesting_engine_v4_result_analysis)
 Python-based backtesting engine for futures trading strategies using Monte Carlo simulation and event-driven architecture. Achieved a **235% increase in expectancy** and **75% reduction in drawdown** through iterative optimization.  
 `Python` `Pandas` `NumPy` `Matplotlib`
 
-### [Credit Card Fraud Detection](#)
+### [Credit Card Fraud Detection](https://github.com/hxxisq/credit_card_fraud_detection)
 XGBoost model trained on 284,807 highly imbalanced transactions. Detected **82 of 98 fraudulent cases** with an F1 score of **0.86** and AUC-ROC of **0.97**. SHAP used for model interpretability.  
 `Python` `Scikit-learn` `XGBoost` `SHAP`
 
-### [Stock Market Performance Tracker](#)
+### [Stock Market Performance Tracker](https://github.com/hxxisq/stock_market_performance_tracker)
 Automated ETL pipeline processing 5 years of historical stock data via the yfinance API. Normalized SQLite database with SQL window functions for rolling metrics and trend analysis.  
 `Python` `SQL` `SQLite` `Pandas` `Matplotlib` `Seaborn`
 
