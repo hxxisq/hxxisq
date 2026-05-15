@@ -9,15 +9,15 @@ Currently @ FlexiSAF — AI & NLP pipelines.
 
 ## Featured Projects
 
-**[Algorithmic Trading Research & Optimization Engine](https://github.com/hxxisq](https://github.com/hxxisq/backtesting_engine_v4_result_analysis))**  
+**[Algorithmic Trading Research & Optimization Engine](https://github.com/hxxisq](https://github.com/hxxisq/backtesting_engine_v4_result_analysis)**  
 Backtesting engine across 7 years of NQ, ES, YM & RTY futures data. Improved strategy profitability by 235%, reduced drawdown by 75%.  
 `Python` `Pandas` `NumPy` `Monte Carlo Simulation`
 
-**[Credit Card Fraud Detection](https://github.com/hxxisq](https://github.com/hxxisq/credit_card_fraud_detection))**  
+**[Credit Card Fraud Detection](https://github.com/hxxisq](https://github.com/hxxisq/credit_card_fraud_detection)**  
 XGBoost model on 284K+ imbalanced transactions. Detected 84% of fraud cases — F1: 0.86, AUC-ROC: 0.97. SHAP used for full model explainability.  
 `Python` `XGBoost` `Scikit-learn` `SHAP`
 
-**[Stock Market Performance Tracker](https://github.com/hxxisq](https://github.com/hxxisq/stock_market_performance_tracker))**  
+**[Stock Market Performance Tracker](https://github.com/hxxisq](https://github.com/hxxisq/stock_market_performance_tracker)**  
 Automated ETL pipeline ingesting 5 years of market data. SQL window functions for rolling metrics and trend analysis.  
 `Python` `SQL` `SQLite` `Pandas`
 
