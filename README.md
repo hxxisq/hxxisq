@@ -1,59 +1,40 @@
 # Benjamin Shado
 
-**Data Analyst · Data Scientist**  
-Abuja, Nigeria · [benjamin.shado@gmail.com](mailto:benjamin.shado@gmail.com) · [LinkedIn](#) · [GitHub](#)
+Data Analyst · Data Scientist · Abuja, Nigeria
 
----
-
-## About
-
-Data analyst and scientist with a background in computer science, focused on building reliable ML pipelines, ETL systems, and data-driven solutions. Currently working as an AI & Data Science Intern at FlexiSAF, where I build generative AI and NLP pipelines.
-
----
-
-## Skills
-
-| Area | Technologies |
-|---|---|
-| **Programming** | Python, SQL |
-| **Machine Learning** | Scikit-learn, XGBoost, SHAP, Statistical Analysis |
-| **Data Engineering** | Pandas, NumPy, ETL Pipelines, PostgreSQL, SQLite |
-| **Visualization** | Matplotlib, Seaborn, EDA |
-| **Tools** | Git/GitHub, Jupyter, VS Code, PyCharm, pgAdmin |
+Building systems that turn raw data into decisions.  
+Currently @ FlexiSAF — AI & NLP pipelines.
 
 ---
 
 ## Featured Projects
 
-### [Algorithmic Trading Research & Optimization Engine](https://github.com/hxxisq/backtesting_engine_v4_result_analysis)
-Python-based backtesting engine for futures trading strategies using Monte Carlo simulation and event-driven architecture. Achieved a **235% increase in expectancy** and **75% reduction in drawdown** through iterative optimization.  
-`Python` `Pandas` `NumPy` `Matplotlib`
+**[Algorithmic Trading Research & Optimization Engine](https://github.com/hxxisq](https://github.com/hxxisq/backtesting_engine_v4_result_analysis))**  
+Backtesting engine across 7 years of NQ, ES, YM & RTY futures data. Improved strategy profitability by 235%, reduced drawdown by 75%.  
+`Python` `Pandas` `NumPy` `Monte Carlo Simulation`
 
-### [Credit Card Fraud Detection](https://github.com/hxxisq/credit_card_fraud_detection)
-XGBoost model trained on 284,807 highly imbalanced transactions. Detected **82 of 98 fraudulent cases** with an F1 score of **0.86** and AUC-ROC of **0.97**. SHAP used for model interpretability.  
-`Python` `Scikit-learn` `XGBoost` `SHAP`
+**[Credit Card Fraud Detection](https://github.com/hxxisq](https://github.com/hxxisq/credit_card_fraud_detection))**  
+XGBoost model on 284K+ imbalanced transactions. Detected 84% of fraud cases — F1: 0.86, AUC-ROC: 0.97. SHAP used for full model explainability.  
+`Python` `XGBoost` `Scikit-learn` `SHAP`
 
-### [Stock Market Performance Tracker](https://github.com/hxxisq/stock_market_performance_tracker)
-Automated ETL pipeline processing 5 years of historical stock data via the yfinance API. Normalized SQLite database with SQL window functions for rolling metrics and trend analysis.  
-`Python` `SQL` `SQLite` `Pandas` `Matplotlib` `Seaborn`
-
----
-
-## Experience
-
-**AI & Data Science Intern** — FlexiSAF *(May 2026 – Present)*  
-Building generative AI and NLP pipelines; supporting model evaluation and responsible AI implementation.
-
-**Independent Music Producer & Digital Strategist** *(2020 – 2023)*  
-Scaled a beat licensing brand to 350K+ YouTube views using data-driven SEO and content analytics.
+**[Stock Market Performance Tracker]([https://github.com/hxxisq](https://github.com/hxxisq/stock_market_performance_tracker))**  
+Automated ETL pipeline ingesting 5 years of market data. SQL window functions for rolling metrics and trend analysis.  
+`Python` `SQL` `SQLite` `Pandas`
 
 ---
 
-## Education
+## Stack
 
-**B.Tech, Computer Science** — Federal University of Technology, Minna · *2025*  
-Relevant coursework: Data Structures & Algorithms, Database Management, Artificial Intelligence
+```
+Languages   Python · SQL · PostgreSQL
+ML/AI       Scikit-learn · XGBoost · PyTorch · TensorFlow · SHAP
+Data        Pandas · NumPy · ETL Pipelines · Database Design
+Viz         Matplotlib · Seaborn
+Tools       Git · Jupyter · VS Code · pgAdmin
+```
 
 ---
 
-*Open to collaborations and opportunities in data science and ML engineering.*
+## Connect
+
+[LinkedIn](https://linkedin.com/in/hxxisq) · [Email](mailto:benjamin.shado@gmail.com)
