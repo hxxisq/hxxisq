@@ -17,7 +17,7 @@ Backtesting engine across 7 years of NQ, ES, YM & RTY futures data. Improved str
 XGBoost model on 284K+ imbalanced transactions. Detected 84% of fraud cases — F1: 0.86, AUC-ROC: 0.97. SHAP used for full model explainability.  
 `Python` `XGBoost` `Scikit-learn` `SHAP`
 
-**[Stock Market Performance Tracker]([https://github.com/hxxisq](https://github.com/hxxisq/stock_market_performance_tracker))**  
+**[Stock Market Performance Tracker](https://github.com/hxxisq](https://github.com/hxxisq/stock_market_performance_tracker))**  
 Automated ETL pipeline ingesting 5 years of market data. SQL window functions for rolling metrics and trend analysis.  
 `Python` `SQL` `SQLite` `Pandas`
 
