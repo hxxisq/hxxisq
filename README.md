@@ -14,7 +14,7 @@ Backtesting engine across 7 years of NQ, ES, YM & RTY futures data. Improved str
 `Python` `Pandas` `NumPy` `Monte Carlo Simulation`
 
 **[Credit Card Fraud Detection](https://github.com/hxxisq/credit_card_fraud_detection)**  
-XGBoost model on 284K+ imbalanced transactions. Detected 84% of fraud cases — F1: 0.86, AUC-ROC: 0.97. SHAP used for full model explainability.  
+XGBoost model on 284K+ imbalanced transactions. Detected 84% of fraud cases - F1: 0.86, AUC-ROC: 0.97. SHAP used for full model explainability.  
 `Python` `XGBoost` `Scikit-learn` `SHAP`
 
 **[Stock Market Performance Tracker](https://github.com/hxxisq/stock_market_performance_tracker)**  
