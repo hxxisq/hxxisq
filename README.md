@@ -10,7 +10,7 @@ Currently @ FlexiSAF - AI & NLP pipelines.
 ## Featured Projects
 
 **[Algorithmic Trading Research & Optimization Engine](https://github.com/hxxisq/algorithmic_trading_research_optimization_engine)**  
-Backtesting engine across 7 years of NQ, ES, YM & RTY futures data. Improved strategy profitability by 235%, reduced drawdown by 75%.  
+Backtesting and optimization engine testing 5 progressive strategy versions across 7 years of NQ and ES futures data. 
 `Python` `Pandas` `NumPy` `Monte Carlo Simulation`
 
 **[Credit Card Fraud Detection](https://github.com/hxxisq/credit_card_fraud_detection)**  
