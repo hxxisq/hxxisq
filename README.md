@@ -2,7 +2,7 @@
 
 Data Analyst · Data Scientist · Abuja, Nigeria
 
-Building systems that turn raw data into decisions.  
+Data-driven problem solver focused on AI and research.  
 
 ---
 
