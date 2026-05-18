@@ -26,7 +26,7 @@ Automated ETL pipeline ingesting 5 years of market data. SQL window functions fo
 
 ```
 Languages   Python · SQL · PostgreSQL
-ML/AI       Scikit-learn · XGBoost · PyTorch · TensorFlow · SHAP
+ML/AI       Scikit-learn · XGBoost · SHAP
 Data        Pandas · NumPy · ETL Pipelines · Database Design
 Viz         Matplotlib · Seaborn
 Tools       Git · Jupyter · VS Code · pgAdmin
