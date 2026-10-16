@@ -1,39 +1,49 @@
 # Benjamin Shado
 
-Data Analyst · Data Scientist · Abuja, Nigeria
+Backend Engineer · Python, FastAPI, AI Systems · Lagos, Nigeria
 
-Data-driven problem solver focused on AI and research.  
+I build backend systems that real businesses run on. Currently focused on AI backend engineering: the APIs, data pipelines and production systems that put AI to work.
 
 ---
 
-## Featured Projects
+## Featured Work
 
-**[Algorithmic Trading Research & Optimization Engine](https://github.com/hxxisq/algorithmic_trading_research_optimization_engine)**  
-Backtesting and optimization engine testing 5 progressive strategy versions across 7 years of NQ and ES futures data. 
-`Python` `Pandas` `NumPy` `Monte Carlo Simulation`
+**Farm Management Platform** · *private, in production*
+The system MAMASS Farm runs on. It replaced spreadsheet reporting that took days with one platform for inventory, egg production, feed, fuel, payroll and sales, and the owner and management team use it daily. Prototyped in Streamlit, then rebuilt as a FastAPI backend and React frontend on a redesigned schema.
+`FastAPI` `PostgreSQL` `SQLAlchemy` `Alembic` `React`
 
-**[Credit Card Fraud Detection](https://github.com/hxxisq/credit_card_fraud_detection)**  
-XGBoost model on 284K+ imbalanced transactions. Detected 84% of fraud cases - F1: 0.86, AUC-ROC: 0.97. SHAP used for full model explainability.  
+**[Credit Card Fraud Detection](https://github.com/hxxisq/credit_card_fraud_detection)**
+XGBoost model on 284K+ heavily imbalanced transactions. Detected 84% of fraud cases with an F1 of 0.86 and AUC-ROC of 0.97, using SHAP for model explainability.
 `Python` `XGBoost` `Scikit-learn` `SHAP`
 
-**[Stock Market Performance Tracker](https://github.com/hxxisq/stock_market_performance_tracker)**  
-Automated ETL pipeline ingesting 5 years of market data. SQL window functions for rolling metrics and trend analysis.  
+**[Algorithmic Trading Research & Optimization Engine](https://github.com/hxxisq/algorithmic_trading_research_optimization_engine)**
+Backtesting engine that tested 5 strategy versions on 7 years of NQ and ES futures data, raising expected value per trade by 235% and cutting risk by 75% across 10,000 Monte Carlo simulations.
+`Python` `Pandas` `NumPy` `Monte Carlo Simulation`
+
+**[Stock Market Performance Tracker](https://github.com/hxxisq/stock_market_performance_tracker)**
+Automated ETL pipeline ingesting 5 years of market data, with SQL window functions for rolling metrics and trend analysis.
 `Python` `SQL` `SQLite` `Pandas`
+
+---
+
+## Now
+
+Learning and building: LLM integration, RAG pipelines, agents and evals on top of FastAPI.
 
 ---
 
 ## Stack
 
 ```
-Languages   Python · SQL · PostgreSQL
-ML/AI       Scikit-learn · XGBoost · SHAP
-Data        Pandas · NumPy · ETL Pipelines · Database Design
-Viz         Matplotlib · Seaborn
-Tools       Git · Jupyter · VS Code · pgAdmin
+Backend     Python · FastAPI · REST APIs · SQL
+Databases   PostgreSQL · SQLAlchemy · Alembic · SQLite
+Data & AI   Pandas · NumPy · Scikit-learn · XGBoost · SHAP
+Frontend    React · Streamlit
+Tools       Git · Docker · Jupyter · VS Code · pgAdmin
 ```
 
 ---
 
 ## Connect
 
-[LinkedIn](https://linkedin.com/in/hxxisq) · [Email](mailto:benjamin.shado@gmail.com)
+[LinkedIn](https://linkedin.com/in/benjaminshado) · [Email](mailto:benjamin.shado@gmail.com)
