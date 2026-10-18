@@ -1,7 +1,7 @@
 # Benjamin Shado
 
 **Backend Engineer · Python, FastAPI, AI Systems**
-Lagos, Nigeria
+
 
 I build backend systems that businesses run on: clean APIs, solid data models, and software that replaces messy manual work with something reliable.
 
