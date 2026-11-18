@@ -1,61 +1,30 @@
 # Benjamin Shado
 
-**Backend Engineer · Python, FastAPI, AI Systems**
+**Backend Software Engineer · Python, FastAPI, PostgreSQL**
 
+I build products from the database to the screen: the data model, the APIs and the interface on top. Based in Lagos, open to backend and full-stack roles.
 
-I build backend systems that businesses run on: clean APIs, solid data models, and software that replaces messy manual work with something reliable.
+🌐 [benjaminshado.com](https://benjaminshado.com) · 💼 [LinkedIn](https://www.linkedin.com/in/benjaminshado/) · ✉️ benjamin.shado@gmail.com
 
----
+## Featured work
 
-## Featured Work
+**Farm operations platform** · *private, in daily use since Oct 2026* · [case study](https://benjaminshado.com/work/poultry-farm)
+Sole engineer on the system a commercial egg farm runs on: production, sales, inventory, feed costing and payroll. Staff report from their phones, and the backend cross-checks every report against the others, so mistakes surface the same day instead of at month-end.
+`FastAPI` `PostgreSQL` `React` `Redis` `Docker` · 110+ endpoints · 300+ tests · month-end reporting cut from ~2 days to real time
 
-### Farm Management Platform
-*In production · Private repository*
+**NextWatch** · *private, in development* · [write-up](https://benjaminshado.com/work/next-watch)
+I own the backend for an iOS and Android app for tracking movies and TV episode by episode, and built its auth service.
+- Redis-cached TMDB integration with retries, backoff and a fallback to the last good copy when rate-limited
+- Separate auth service (Better Auth) issuing short-lived EdDSA JWTs, verified by the FastAPI backend against cached public keys
+- Ownership checks return 404 so resource IDs can't be probed
+`FastAPI` `PostgreSQL` `Redis` `SQLAlchemy` `TypeScript` · 135 tests
 
-The system MAMASS Farm runs on, designed and built end to end.
-
-- Replaced spreadsheet reporting that took days with one platform covering inventory, egg production, feed, fuel, payroll and sales
-- Used daily by the farm's owner and management team to run operations
-- Shipped twice: a Streamlit prototype first, then a full rebuild as a FastAPI backend and React frontend on a redesigned schema built to scale
-
-`FastAPI` `PostgreSQL` `SQLAlchemy` `Alembic` `React`
-
-### [Credit Card Fraud Detection](https://github.com/hxxisq/credit_card_fraud_detection)
-
-XGBoost model trained on 284K+ transactions with less than 0.2% fraud.
-
-- Caught 84% of fraud cases · F1 0.86 · AUC-ROC 0.97
-- SHAP explainability that turns model decisions into insights non-technical teams can act on
-
-`Python` `XGBoost` `Scikit-learn` `SHAP`
-
-### [Algorithmic Trading Research Engine](https://github.com/hxxisq/algorithmic_trading_research_optimization_engine)
-
-Backtesting and optimization engine for NQ and ES futures strategies.
-
-- Raised expected value per trade by 235% and cut risk by 75%
-- Stress-tested on 7 years of market data across 10,000 Monte Carlo simulations
-
-`Python` `Pandas` `NumPy` `Monte Carlo Simulation`
-
----
-
-## Currently Building
-
-AI-powered backend features with FastAPI: LLM integration, RAG pipelines and agents.
-
----
+**[Credit card fraud detection](https://github.com/hxxisq/credit_card_fraud_detection)**
+XGBoost on 284K+ transactions with <0.2% fraud: catches 84% of fraud (0.97 AUC-ROC, 0.86 F1), with SHAP to explain each prediction.
 
 ## Stack
 
-```
-Backend     Python · FastAPI · REST APIs · SQL
-Databases   PostgreSQL · SQLAlchemy · Alembic
-Data & AI   Pandas · NumPy · Scikit-learn · XGBoost · SHAP
-Frontend    React · Streamlit
-Tools       Git · Docker · Jupyter · pgAdmin
-```
-
----
-
-[LinkedIn](https://linkedin.com/in/benjaminshado) · [Email](mailto:benjamin.shado@gmail.com)
+**Backend:** Python · FastAPI · PostgreSQL · SQLAlchemy · Alembic · Redis · pytest
+**Frontend:** React · TypeScript
+**Data:** Pandas · NumPy · Scikit-learn · XGBoost
+**Tools:** Docker · Git
